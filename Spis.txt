@@ -3,3 +3,4 @@ Szafy
 Łóżka
 stoły
 krzesła
+dywany
