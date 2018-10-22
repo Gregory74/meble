@@ -1,3 +1,5 @@
 Fotele
 Szafy
 Łóżka
+stoły
+krzesła
